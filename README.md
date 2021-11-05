@@ -1,1 +1,1 @@
-# QA_course_lesson
+# training_Github
